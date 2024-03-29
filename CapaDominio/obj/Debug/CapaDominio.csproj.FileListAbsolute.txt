@@ -1,0 +1,33 @@
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\bin\Debug\CapaProteccion.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDominio\obj\Debug\CapaDominio.pdb

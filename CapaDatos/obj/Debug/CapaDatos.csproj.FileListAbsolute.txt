@@ -1,0 +1,27 @@
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\bin\Debug\CapaProteccion.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaDatos\obj\Debug\CapaDatos.pdb

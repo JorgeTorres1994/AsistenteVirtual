@@ -1,0 +1,72 @@
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Registrar.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.FormularioBienvenida.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.FormularioRecuperarContraseña.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.Pro.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.FormularioBienvenida.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.FormularioRecuperarContraseña.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Login.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Principal.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Registrar.resources
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDominio.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaProteccion.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\CapaDatos.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Login.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Principal.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.Registrar.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Sintomas.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Actividades.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Bienvenida.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.RecuperarContraseña.resources
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache

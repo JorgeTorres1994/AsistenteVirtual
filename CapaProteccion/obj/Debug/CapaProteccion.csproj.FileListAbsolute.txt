@@ -1,0 +1,18 @@
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.AssemblyReference.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.CoreCompileInputs.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.pdb
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.AssemblyReference.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.CoreCompileInputs.cache
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.dll
+E:\PROYECTO Y DIPLOMA BACHILLER\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\bin\Debug\CapaProteccion.pdb
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.AssemblyReference.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.dll
+D:\Proyectos\C#\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\CapaProteccion\obj\Debug\CapaProteccion.pdb

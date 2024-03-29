@@ -1,0 +1,41 @@
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.AssemblyReference.cache
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.GenerateResource.cache
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Principal.resources
+C:\Users\torre\OneDrive\Escritorio\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Login.resources
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.AssemblyReference.cache
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Login.resources
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Principal.resources
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.GenerateResource.cache
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.CopyComplete
+C:\Users\torre\OneDrive\Escritorio\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Registrar.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe.config
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.exe
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\AsistenteVirtual.pdb
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.AssemblyReference.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Login.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Principal.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Properties.Resources.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.Registrar.resources
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.GenerateResource.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.CoreCompileInputs.cache
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.csproj.CopyComplete
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.exe
+C:\Users\clanp\Desktop\Cosas TONY\PROYECTO ASISTENTE VIRTUAL PSICOLOGICO\AsistenteVirtual\AsistenteVirtual\obj\Debug\AsistenteVirtual.pdb
